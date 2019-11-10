@@ -1,0 +1,2 @@
+# ArcoLinuxB-Awesome Calamares configuration
+
