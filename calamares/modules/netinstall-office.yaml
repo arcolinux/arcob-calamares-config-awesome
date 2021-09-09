@@ -20,7 +20,7 @@
   selected: false
   packages:
     - calibre
-    - sigil  
+    - sigil
 - name: "Focuswriter"
   description: "Focuswriter"
   critical: false
