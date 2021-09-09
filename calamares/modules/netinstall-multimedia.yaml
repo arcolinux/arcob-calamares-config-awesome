@@ -1,4 +1,4 @@
-- name: "Multimedia Audio Software"
+- name: "Audio Software"
   description: "Primarily Audio software"
   critical: false
   hidden: false
@@ -32,7 +32,7 @@
     - spotify
     - spotifywm-git
     - tauon-music-box
-- name: "Multimedia Video Software"
+- name: "Video Software"
   description: "Primarily Video software"
   critical: false
   hidden: false
